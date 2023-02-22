@@ -1,0 +1,15 @@
+{
+  "simpleTask": "Read a Cypress Book",
+  "duplicatedTask": {
+    "name": "Buy Some Milk",
+    "is_done": false
+  },
+  "completeTask": {
+    "name": "Pay some bills",
+    "is_done": false
+  },
+  "deleteTask": {
+    "name": "To study JS",
+    "is_done": false
+  }
+}
